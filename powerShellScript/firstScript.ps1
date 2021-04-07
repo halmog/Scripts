@@ -1,0 +1,2 @@
+    Start-Process notepad C:\Users\ahovel\Desktop\learning\udemy\bootCamp\project2\emptyFileForScript1.txt
+    Add-Content C:\Users\ahovel\Desktop\learning\udemy\bootCamp\project2\emptyFileForScript1.txt "`I love the bootcamp!"
